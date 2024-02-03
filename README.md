@@ -1,5 +1,5 @@
 ### Hi  👋,  Muhaned Shrief
-#Head Of Embedded System
+##Head Of Embedded System
 ![Head Of Embedded System](https://scontent.fcai21-1.fna.fbcdn.net/v/t39.30808-6/326376490_5824289620993266_3215746648439868498_n.jpg?_nc_cat=104&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=eOq5zAlYWYkAX8xiCRJ&_nc_ht=scontent.fcai21-1.fna&oh=00_AfDlPMuD-p7eWraPXk61LDI6l-Nit7iHqS0WRpH_FrOZkQ&oe=65C4003C)
 
 Self-motivated, Work harder, and Passionate Embedded Software Engineer.
@@ -31,6 +31,8 @@ Skills: C/C++/ JS / HTML / CSS
 </p>
 
 ## 🛠 Languages and Tools
+C Language
+Phyton
 <br>
 
 ## 📊 Github Stats
@@ -42,7 +44,7 @@ Skills: C/C++/ JS / HTML / CSS
 	  <img src="https://github.com/muhaned-shrief1" alt="muhaned-shrief1" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> In the way of life, keep your patience like the sea that shines in its calm, just as the sea holds its treasures in its depths, time holds the best for you, so continue to withstand and know that God will give you what is best when He sees fit.♥
   </p>
   
 
