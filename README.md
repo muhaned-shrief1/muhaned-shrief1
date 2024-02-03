@@ -20,9 +20,5 @@ Skills: C/C++/ JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/muhaned-shrief1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/muhaned-shrief1&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/muhaned-shrief1/contributions?format=svg&private=false)  
-
 
 
