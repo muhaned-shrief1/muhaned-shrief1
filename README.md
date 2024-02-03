@@ -1,5 +1,4 @@
   Muhaned Shrief
-Head Of Embedded System
 ![Head Of Embedded System](https://scontent.fcai21-1.fna.fbcdn.net/v/t39.30808-6/326376490_5824289620993266_3215746648439868498_n.jpg?_nc_cat=104&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=eOq5zAlYWYkAX8xiCRJ&_nc_ht=scontent.fcai21-1.fna&oh=00_AfDlPMuD-p7eWraPXk61LDI6l-Nit7iHqS0WRpH_FrOZkQ&oe=65C4003C)
 
 Self-motivated, Work harder, and Passionate Embedded Software Engineer.
@@ -17,7 +16,7 @@ Skills: C/C++/ JS / HTML / CSS
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - :school: I am a `Electrical Enginering ` from Modern Academy for Enginering
-- 🔭 I’m currently working at IEEE
+- 🔭 I’m currently working at IEEE "Head of Embedded System"
 - 🌱 I’m currently studying "C"
 - 📫 How to reach me **muhanedshrief@gmail.com**
 - :nerd_face: Always `learning new things`
