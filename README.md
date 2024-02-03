@@ -1,4 +1,4 @@
-### Hi there 👋,  Muhaned Shrief
+### Hi  👋,  Muhaned Shrief
 #Head Of Embedded System
 ![Head Of Embedded System](https://scontent.fcai21-1.fna.fbcdn.net/v/t39.30808-6/326376490_5824289620993266_3215746648439868498_n.jpg?_nc_cat=104&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=eOq5zAlYWYkAX8xiCRJ&_nc_ht=scontent.fcai21-1.fna&oh=00_AfDlPMuD-p7eWraPXk61LDI6l-Nit7iHqS0WRpH_FrOZkQ&oe=65C4003C)
 
@@ -38,7 +38,7 @@ Skills: C/C++/ JS / HTML / CSS
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="muhaned-shrief1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="muhaned-shrief1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhaned-shrief1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github.com/muhaned-shrief1" alt="muhaned-shrief1" height="230px"/>
 <br/>
 
