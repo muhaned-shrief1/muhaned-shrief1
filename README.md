@@ -25,7 +25,7 @@ Skills: C/C++/ JS / HTML / CSS
 <br>
 ### First Term  ![image](https://progress-bar.dev/100/?title=Done&color=ff00ff)
 
-- [Unit 1: Diploma Prerequisites](https://github.com/muhaned-shrief1) 
+- [Unit 1: Diploma Prerequisites]         ![image](https://progress-bar.dev/100/)
 - [Unit 2: C Programming](C_Programming) ![image](https://progress-bar.dev/100/)
 - [Unit 3: Embedded C](Unit3_EmbeddedC) ![image](https://progress-bar.dev/100/)
 - [Unit 4: Data Structures/UML](Unit4_DataStructures) ![image](https://progress-bar.dev/100/)
