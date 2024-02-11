@@ -23,9 +23,9 @@ Skills: C/C++/ JS / HTML / CSS
 - 🐼 Doing my best 
 
 <br>
-### First Term ![image](https://progress-bar.dev/100/?title=Done)
+### First Term 
 
-- [Unit 1: Diploma Prerequisites](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/100/?title=No_Assignments&color=bababa)
+- [Unit 1: Diploma Prerequisites](https://github.com/muhaned-shrief1) 
 - [Unit 2: C Programming](C_Programming) ![image](https://progress-bar.dev/100/)
 - [Unit 3: Embedded C](Unit3_EmbeddedC) ![image](https://progress-bar.dev/100/)
 - [Unit 4: Data Structures/UML](Unit4_DataStructures) ![image](https://progress-bar.dev/100/)
@@ -40,17 +40,17 @@ Skills: C/C++/ JS / HTML / CSS
 - [Unit 7: MCU Essential Peripherals](Unit7_MCUEssentialPeripherals) ![image](https://progress-bar.dev/100/)
 - [Unit 8: MCU Interfacing](Unit8_MCUInterfacing) ![image](https://progress-bar.dev/100/)
 - [Unit 9: MCU Timers/ADC](Unit9_TimersAndADC) ![image](https://progress-bar.dev/100/)
-- [Unit 10: SW Testing/Validation](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/100/)
-- [Unit 11: Apply on Embedded Systems Jobs](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/100/?title=Exams&color=bababa)
+- [Unit 10: SW Testing/Validation](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/)
+- [Unit 11: Apply on Embedded Systems Jobs](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/?title=Exams&color=bababa)
 
 ---
 
 ### Third Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff0000)
 
-- [Unit 12: Advanced Topics](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/0/)
-- [Unit 13: Mastering CAN Protocol](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/0/)
-- [Unit 14: Mastering ARM CortexM3/4](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/0/)
-- [Unit 15: Create Your Own RTOS](https://github.com/darshme7/embedded_systems_online_diploma) ![image](https://progress-bar.dev/0/)
+- [Unit 12: Advanced Topics]https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
+- [Unit 13: Mastering CAN Protocol](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
+- [Unit 14: Mastering ARM CortexM3/4](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
+- [Unit 15: Create Your Own RTOS](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
 
 ## 📩 Connect with me  
 <a href="https://www.facebook.com/hazem.shrief.92?mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
