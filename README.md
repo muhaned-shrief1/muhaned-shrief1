@@ -47,10 +47,10 @@ Skills: C/C++/ JS / HTML / CSS
 
 ### Third Term ![image](https://progress-bar.dev/0/?title=Start_Soon&color=ff0000)
 
-- [Unit 12: Advanced Topics]https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
-- [Unit 13: Mastering CAN Protocol](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
-- [Unit 14: Mastering ARM CortexM3/4](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
-- [Unit 15: Create Your Own RTOS](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/0/)
+- [Unit 12: Advanced Topics]https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/)
+- [Unit 13: Mastering CAN Protocol](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/)
+- [Unit 14: Mastering ARM CortexM3/4](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/)
+- [Unit 15: Create Your Own RTOS](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/)
 
 ## 📩 Connect with me  
 <a href="https://www.facebook.com/hazem.shrief.92?mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
