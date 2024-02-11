@@ -23,7 +23,7 @@ Skills: C/C++/ JS / HTML / CSS
 - 🐼 Doing my best 
 
 <br>
-### First Term ![image](https://progress-bar.dev/100/?title=Start_Soon&color=ff0000)
+### First Term  ![image](https://progress-bar.dev/100/?title=Done&color=ff00ff)
 
 - [Unit 1: Diploma Prerequisites](https://github.com/muhaned-shrief1) 
 - [Unit 2: C Programming](C_Programming) ![image](https://progress-bar.dev/100/)
@@ -45,7 +45,7 @@ Skills: C/C++/ JS / HTML / CSS
 
 ---
 
-### Third Term ![image](https://progress-bar.dev/100/?title=Start_Soon&color=ff0000)
+### Third Term  ![image](https://progress-bar.dev/100/?title=Done&color=ff00ff)
 
 - [Unit 12: Advanced Topics]) ![image](https://progress-bar.dev/100/)
 - [Unit 13: Mastering CAN Protocol](https://github.com/muhaned-shrief1) ![image](https://progress-bar.dev/100/)
