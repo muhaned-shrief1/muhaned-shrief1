@@ -23,7 +23,7 @@ Skills: C/C++/ JS / HTML / CSS
 - 🐼 Doing my best 
 
 <br>
-### First Term  ![image](https://progress-bar.dev/100/?title=Done&color=ff00ff)
+### First Term ![image](https://progress-bar.dev/100/?title=Done&color=ff00ff)
 
 - [Unit 1: Diploma Prerequisites]         ![image](https://progress-bar.dev/100/)
 - [Unit 2: C Programming](C_Programming) ![image](https://progress-bar.dev/100/)
