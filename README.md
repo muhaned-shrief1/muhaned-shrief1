@@ -10,7 +10,6 @@ Muhaned Shrief[Head Of Embedded System]
 Self-motivated, Work harder, and Passionate Embedded Software Engineer.
 Seeking a challenging career with a progressive organization that provides an opportunity to capitalize on my technical skills and abilities in the field of Embedded Systems. 
 In addition, I am working hard to reach my goals, seeking continuous self-improvement
-[![linkedin](https://img.shields.io/badge/muhaned-shrief-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhaned-shrief/)  
 
 Skills: C/C++/ JS / HTML / CSS
 
