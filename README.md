@@ -1,5 +1,4 @@
-Muhaned Shrief
-[Head Of Embedded System]
+Muhaned Shrief[Head Of Embedded System]
   Welcome to Muhaned Shrief profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
