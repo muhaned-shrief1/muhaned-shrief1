@@ -1,5 +1,5 @@
   Muhaned Shrief
-![Head Of Embedded System](https://scontent.fcai21-1.fna.fbcdn.net/v/t39.30808-6/326376490_5824289620993266_3215746648439868498_n.jpg?_nc_cat=104&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=eOq5zAlYWYkAX8xiCRJ&_nc_ht=scontent.fcai21-1.fna&oh=00_AfDlPMuD-p7eWraPXk61LDI6l-Nit7iHqS0WRpH_FrOZkQ&oe=65C4003C)
+![Head Of Embedded System]
 <h3 align="center">
   Welcome to Muhaned Shrief profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
