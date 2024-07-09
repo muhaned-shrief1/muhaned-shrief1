@@ -1,4 +1,7 @@
-  Muhaned Shrief
+  <div align="center">
+<img src="img/hello_github.gif" align="center" style="width: 100%" />
+</div>  
+Muhaned Shrief
 [Head Of Embedded System]
 <h3 align="center">
   Welcome to Muhaned Shrief profile!
