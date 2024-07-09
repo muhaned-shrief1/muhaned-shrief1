@@ -1,6 +1,13 @@
   Muhaned Shrief
 ![Head Of Embedded System](https://scontent.fcai21-1.fna.fbcdn.net/v/t39.30808-6/326376490_5824289620993266_3215746648439868498_n.jpg?_nc_cat=104&cb=99be929b-8d691acd&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=eOq5zAlYWYkAX8xiCRJ&_nc_ht=scontent.fcai21-1.fna&oh=00_AfDlPMuD-p7eWraPXk61LDI6l-Nit7iHqS0WRpH_FrOZkQ&oe=65C4003C)
-
+<h3 align="center">
+  Welcome to Muhaned Shrief profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 Self-motivated, Work harder, and Passionate Embedded Software Engineer.
 Seeking a challenging career with a progressive organization that provides an opportunity to capitalize on my technical skills and abilities in the field of Embedded Systems. 
 In addition, I am working hard to reach my goals, seeking continuous self-improvement
