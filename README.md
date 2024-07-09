@@ -1,5 +1,5 @@
   Muhaned Shrief
-![Head Of Embedded System]
+[Head Of Embedded System]
 <h3 align="center">
   Welcome to Muhaned Shrief profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
