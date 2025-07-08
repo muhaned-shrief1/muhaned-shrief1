@@ -1,4 +1,4 @@
-Muhaned Shrief[Head Of Embedded System]
+Muhaned Shrief[Founder & CEO @ Digital Knights ]
 <h3 align="center">
   Welcome to Muhaned Shrief profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
